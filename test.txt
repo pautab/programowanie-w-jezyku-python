@@ -1,1 +1,2 @@
 To jest wersja w galezi test
+To jest wersja z galezi test_2
